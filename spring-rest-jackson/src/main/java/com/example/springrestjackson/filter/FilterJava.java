@@ -1,4 +1,4 @@
-package digitalinnovation.example.restfull.filter;
+package com.example.springrestjackson.filter;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
